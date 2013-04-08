@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_newitem"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/content_new"
+        android:title="@string/action_newitem"/>
+    <item
+        android:id="@+id/action_load"
+        android:orderInCategory="102"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/action_load"/>
+    <item
+        android:id="@+id/action_other"
+        android:orderInCategory="103"
+        android:title="@string/something"/>
+    
+</menu>

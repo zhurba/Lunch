@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lunch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_newitem">Add new Item</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_deleteitem">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_load">Load</string>
+    <string name="newitem_dlg_title">New Item</string>
+    <string name="newitem_dlg_hint">add new item</string>
+    <string name="cab_selected">" selected"</string>
+    <string name="something">something</string>
+    <string name="tabtitle_places">places</string>
+    <string name="tabtitle_lunches">lunches</string>
+    
+</resources>
